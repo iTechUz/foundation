@@ -23,3 +23,19 @@ HTML asoslarini bilib oling:
 3. https://webref.ru/course/html-tutorial - 4h
 4. https://webref.ru/course/section - 2h
 5. https://webref.ru/course/html5-form - 2h
+
+
+
+## FAQ
+### Savolni qayerda berishim mumkin??
+Вопросы можно задать в Discord чате: @itechmarafon_bot
+
+### Yashash shahri muhimmi? Kursni butunlay onlayn o'tashim mumkinmi?
+
+Yashash shahri muhim emas. Treningning barcha bosqichlari onlayn tarzda yakunlanishi mumkin.
+
+### Trening boshlanishidan oldin nima qilish kerak?
+1. [tayyorgarlik kursi] (bosqich0/) topshiriqlari va testlarini bajaring.
+2. Pre-Intermediate darajasigacha (Minimum A2) ingliz tili kursini o'ting.
+
+
