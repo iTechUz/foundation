@@ -1,4 +1,4 @@
-# [Stage#0.](../../) HTML asoslari
+# [iTech Academy](../../) HTML asoslari
 ## Ushbu modulda talabalar:
 HTML asoslarini bilib oling:
 1. Sintaksis
@@ -25,17 +25,39 @@ HTML asoslarini bilib oling:
 5. https://webref.ru/course/html5-form - 2h
 
 
+# Kursni boshlaymiz 
+
+### Asosiy kursning bosqichlari
+- [#1 Modul](./Html%20Tutorial/modul-1/)
+    - [HTML Tutorial](./Html%20Tutorial/modul-1/week-1/)
+    - [HTML Forms, CSS Tutorial](./Html%20Tutorial/modul-1/week-2/)  
+    - [HTML Media](./Html%20Tutorial/modul-1/week-3/)  
+    - [CSS Responsive](./Html%20Tutorial/modul-1/week-3/)
+ - [#2 Modul](./Html%20Tutorial/modul-2/)
+     - [HTML Tutorial](./Html%20Tutorial/modul-1/week-1/)
+     - [HTML Forms, CSS Tutorial](./Html%20Tutorial/modul-1/week-2/)  
+     - [HTML Media](./Html%20Tutorial/modul-1/week-3/)  
+     - [CSS Responsive](./Html%20Tutorial/modul-1/week-3/)
+ - [#3 Modul](./Html%20Tutorial/modul-2/)
+     - [HTML Tutorial](./Html%20Tutorial/modul-1/week-1/)
+     - [HTML Forms, CSS Tutorial](./Html%20Tutorial/modul-1/week-2/)  
+     - [HTML Media](./Html%20Tutorial/modul-1/week-3/)  
+     - [CSS Responsive](./Html%20Tutorial/modul-1/week-3/)
+ - [#4 Modul](./Html%20Tutorial/modul-2/)
+     - [HTML Tutorial](./Html%20Tutorial/modul-1/week-1/)
+     - [HTML Forms, CSS Tutorial](./Html%20Tutorial/modul-1/week-2/)  
+     - [HTML Media](./Html%20Tutorial/modul-1/week-3/)  
+     - [CSS Responsive](./Html%20Tutorial/modul-1/week-3/) 
+
+<br/>
+<p align="center">
+<img src="https://cdn-edge.kwork.ru/pics/t3/73/13426712-1615540173.jpg" alt="jpg"/>
+</p>
+
 
 ## FAQ
-### Savolni qayerda berishim mumkin??
-Вопросы можно задать в Discord чате: @itechmarafon_bot
+## Savolni qayerda berishim mumkin?
+- Savollarni telegram chatida berish mumkin:  [Telegram bot](https://t.me/itechmarafon_bot)
+## Yashash shahri muhimmi? Kursni butunlay onlayn o'tashim mumkinmi?
 
-### Yashash shahri muhimmi? Kursni butunlay onlayn o'tashim mumkinmi?
-
-Yashash shahri muhim emas. Treningning barcha bosqichlari onlayn tarzda yakunlanishi mumkin.
-
-### Trening boshlanishidan oldin nima qilish kerak?
-1. [tayyorgarlik kursi] (bosqich0/) topshiriqlari va testlarini bajaring.
-2. Pre-Intermediate darajasigacha (Minimum A2) ingliz tili kursini o'ting.
-
-
+- Yashash shahri muhim emas. Treningning barcha bosqichlari onlayn tarzda yakunlanishi mumkin
