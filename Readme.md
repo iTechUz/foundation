@@ -31,7 +31,7 @@ HTML asoslarini bilib oling:
 - [#1 Modul](./Html%20Tutorial/modul-1/)
     - [HTML Tutorial](./Html%20Tutorial/modul-1/week-1/)
  - [#2 Modul](./Html%20Tutorial/modul-2/)
-     - [HTML Examples](./Html%20Tutorial/modul-1/week-1/)
+     - [HTML Examples](./Html%20Tutorial/modul-2/)
  - [#3 Modul](./Html%20Tutorial/modul-2/)
      - [Demo](./Html%20Tutorial/modul-1/week-1/)
      - [Demo](./Html%20Tutorial/modul-1/week-2/)  
