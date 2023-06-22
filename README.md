@@ -28,16 +28,10 @@ HTML asoslarini bilib oling:
 # Kursni boshlaymiz 
 
 ### Asosiy kursning bosqichlari
-- [#1 Modul](./Html%20Tutorial/modul-1/)
+- [#1 Modul](./Html%20Tutorial/README.md)
     - [HTML Tutorial](./Html%20Tutorial/modul-1/week-1/)
-    - [HTML Forms, CSS Tutorial](./Html%20Tutorial/modul-1/week-2/)  
-    - [HTML Media](./Html%20Tutorial/modul-1/week-3/)  
-    - [CSS Responsive](./Html%20Tutorial/modul-1/week-4/)
  - [#2 Modul](./Html%20Tutorial/modul-2/)
-     - [Css and Html tutorial](./Html%20Tutorial/modul-1/week-1/)
-     - [HTML Examples](./Html%20Tutorial/modul-1/week-1/)
-     - [HTML References](./Html%20Tutorial/modul-1/week-2/)  
-     - [HTML Forms](./Html%20Tutorial/modul-1/week-3/)  
+     - [HTML Examples](./Html%20Tutorial/modul-2/)
  - [#3 Modul](./Html%20Tutorial/modul-2/)
      - [Demo](./Html%20Tutorial/modul-1/week-1/)
      - [Demo](./Html%20Tutorial/modul-1/week-2/)  
