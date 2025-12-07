@@ -1,0 +1,15 @@
+<html>
+    <head>
+    </head>
+    <body>
+        <h1>Sening omadli raqaming: <span id="num">0</span></h1>
+        <button onclick="generate()">Omadni sinash</button>
+
+        <script>
+            function generate() {
+                let lucky = Math.floor(Math.random() * 100) + 1;
+                document.getElementById('num').innerText = lucky;
+            }
+        </script>
+    </body>
+</html>
