@@ -1,0 +1,16 @@
+<html>
+    <head>
+
+    </head>
+    <body>
+
+        <button onclick="changeColor()">Rangni o'zgartir</button>
+    <script>
+        function changeColor() {
+            const colors = ["red", "green", "blue", "yellow", "purple", "orange"];
+            const random = colors[Math.floor(Math.random() * colors.length)];
+            document.body.style.backgroundColor = random;
+        }
+    </script>
+    </body>
+</html>
